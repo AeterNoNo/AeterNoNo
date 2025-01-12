@@ -1,4 +1,4 @@
-# Salutations
+# Salutations 🥚
 
 I'm a French student trying to learn new things. I would like to make tiny apps for daily life someday.
 
