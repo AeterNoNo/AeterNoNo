@@ -6,6 +6,6 @@ Currently learning the basics in **Python**, **HTML**, **CSS**, and **JavaScript
 
 ---
 
-I love learning, ask me about anything !
+**I love learning**, ask me about anything !
 
-Fun fact : I absolutely love classical music and will use any possible reason to speak about it.
+**Fun fact :** I absolutely love classical music and will use any possible reason to speak about it.
