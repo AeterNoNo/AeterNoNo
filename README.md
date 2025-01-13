@@ -2,7 +2,7 @@
 
 I'm a French student trying to learn new things. I would like to make tiny apps for daily life someday.
 
-Currently learning the basics in **Python**, **HTML**, **CSS**, and **JavaScript**. Also forced to work on a website for school...
+Currently learning the basics in **Python**, **HTML**, **CSS**, **JavaScript** and **TypeScript**. Also forced to work on a website for school...
 
 ---
 
